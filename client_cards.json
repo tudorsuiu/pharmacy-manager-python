@@ -1,0 +1,31 @@
+{
+  "1": {
+    "py/object": "Domain.client_card.ClientCard",
+    "entity_id": "1",
+    "first_name": "Tudor",
+    "last_name": "Suiu",
+    "CNP": "1234567890123",
+    "birthday": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B+UMFQ=="
+        ]
+      ]
+    },
+    "inregistration": {
+      "py/object": "datetime.date",
+      "__reduce__": [
+        {
+          "py/type": "datetime.date"
+        },
+        [
+          "B+UKDA=="
+        ]
+      ]
+    }
+  }
+}

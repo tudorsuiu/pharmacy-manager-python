@@ -1,0 +1,18 @@
+{
+  "1": {
+    "py/object": "Domain.medicine.Medicine",
+    "entity_id": "1",
+    "name_medicine": "Nurofen",
+    "producer_medicine": "Reckitt Benckiser",
+    "price_medicine": 10,
+    "prescription_medicine": "nu"
+  },
+  "2": {
+    "py/object": "Domain.medicine.Medicine",
+    "entity_id": "2",
+    "name_medicine": "Paracetamol",
+    "producer_medicine": "Zenit",
+    "price_medicine": 10,
+    "prescription_medicine": "da"
+  }
+}

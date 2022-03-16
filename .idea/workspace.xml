@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3990b435-162e-43fb-a712-178e95793d02" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Tests/test_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_service.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20y9LmhvdrfXtQSWBjyISv4fESi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="console" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab-8910-tudorsuiu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UserInterface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UserInterface/console.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab-8910-tudorsuiu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab-8910-tudorsuiu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_repository" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab-8910-tudorsuiu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_repository.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_service" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab-8910-tudorsuiu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_service.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.console" />
+        <item itemvalue="Python.test_all" />
+        <item itemvalue="Python.test_repository" />
+        <item itemvalue="Python.test_service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3990b435-162e-43fb-a712-178e95793d02" name="Changes" comment="" />
+      <created>1637005908854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637005908854</updated>
+      <workItem from="1637005911270" duration="6308000" />
+      <workItem from="1637052297119" duration="21000" />
+      <workItem from="1637052502105" duration="6088000" />
+      <workItem from="1637058871957" duration="49000" />
+      <workItem from="1637059002040" duration="5000" />
+      <workItem from="1637066878323" duration="126000" />
+      <workItem from="1637067115490" duration="4569000" />
+      <workItem from="1637071903669" duration="33000" />
+      <workItem from="1637072074202" duration="15000" />
+      <workItem from="1637079047382" duration="865000" />
+      <workItem from="1637079936154" duration="247000" />
+      <workItem from="1637080526063" duration="222000" />
+      <workItem from="1637080893607" duration="216000" />
+      <workItem from="1637081960568" duration="1488000" />
+      <workItem from="1637095369720" duration="2883000" />
+      <workItem from="1637098303510" duration="191000" />
+      <workItem from="1637098638672" duration="14000" />
+      <workItem from="1637126773501" duration="621000" />
+      <workItem from="1637127466718" duration="773000" />
+      <workItem from="1637183886670" duration="103000" />
+      <workItem from="1637246795482" duration="155000" />
+      <workItem from="1637258696646" duration="12744000" />
+      <workItem from="1637330630354" duration="854000" />
+      <workItem from="1637334189021" duration="5129000" />
+      <workItem from="1637401356240" duration="8081000" />
+      <workItem from="1637409518469" duration="93000" />
+      <workItem from="1637435336982" duration="9102000" />
+      <workItem from="1637445261555" duration="32000" />
+      <workItem from="1637585981056" duration="9832000" />
+      <workItem from="1637596697797" duration="621000" />
+      <workItem from="1637609547504" duration="4307000" />
+      <workItem from="1637671300955" duration="697000" />
+      <workItem from="1637673560937" duration="1285000" />
+      <workItem from="1637731948720" duration="1345000" />
+      <workItem from="1637750106605" duration="4000" />
+      <workItem from="1637768260197" duration="3284000" />
+      <workItem from="1637772078837" duration="17000" />
+      <workItem from="1637772109139" duration="240000" />
+      <workItem from="1637772949031" duration="1197000" />
+      <workItem from="1637774312463" duration="117000" />
+      <workItem from="1637782927843" duration="5160000" />
+      <workItem from="1637790086564" duration="54000" />
+      <workItem from="1637791752110" duration="567000" />
+      <workItem from="1637792390697" duration="996000" />
+      <workItem from="1638096238291" duration="306000" />
+      <workItem from="1638223747146" duration="170000" />
+      <workItem from="1638269430162" duration="6229000" />
+      <workItem from="1638299258902" duration="10775000" />
+      <workItem from="1638311360439" duration="740000" />
+      <workItem from="1638351269222" duration="3004000" />
+      <workItem from="1638359718187" duration="3606000" />
+      <workItem from="1638363424805" duration="932000" />
+      <workItem from="1638366555709" duration="638000" />
+      <workItem from="1638539401829" duration="2378000" />
+      <workItem from="1638619477873" duration="142000" />
+      <workItem from="1638630968053" duration="1841000" />
+      <workItem from="1638652180447" duration="6032000" />
+      <workItem from="1638739957954" duration="3234000" />
+      <workItem from="1638743462950" duration="1282000" />
+      <workItem from="1638746864384" duration="9000" />
+      <workItem from="1638747846285" duration="43000" />
+      <workItem from="1639087727027" duration="327000" />
+      <workItem from="1639088066052" duration="8820000" />
+      <workItem from="1639133092488" duration="1742000" />
+      <workItem from="1639135497886" duration="17000" />
+      <workItem from="1639150745568" duration="314000" />
+      <workItem from="1639151077393" duration="4425000" />
+      <workItem from="1639156903175" duration="595000" />
+      <workItem from="1639235332076" duration="96000" />
+      <workItem from="1639350562676" duration="1192000" />
+      <workItem from="1639390607706" duration="97000" />
+      <workItem from="1639391405616" duration="92000" />
+      <workItem from="1639391931689" duration="1368000" />
+      <workItem from="1639394037533" duration="514000" />
+      <workItem from="1639397464337" duration="7204000" />
+      <workItem from="1639404883572" duration="956000" />
+      <workItem from="1639414325834" duration="152000" />
+      <workItem from="1639415035401" duration="616000" />
+      <workItem from="1639470471684" duration="4511000" />
+      <workItem from="1639475056199" duration="306000" />
+      <workItem from="1639484397107" duration="3367000" />
+      <workItem from="1639501041364" duration="65000" />
+      <workItem from="1639501175132" duration="49000" />
+      <workItem from="1639514636662" duration="28000" />
+      <workItem from="1639517213850" duration="296000" />
+      <workItem from="1639546162165" duration="1627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/main_py$transaction_service.coverage" NAME="transaction_service Coverage Results" MODIFIED="1637079962076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Service" />
+    <SUITE FILE_PATH="coverage/main_py$test_domain.coverage" NAME="test_domain Coverage Results" MODIFIED="1637264247685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/main_py$test_service.coverage" NAME="test_service Coverage Results" MODIFIED="1637264255116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main Coverage Results" MODIFIED="1639547362476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab_8910_tudorsuiu$main.coverage" NAME="main Coverage Results" MODIFIED="1637079801550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$test_all.coverage" NAME="test_all Coverage Results" MODIFIED="1638273272885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/main_py$test_repository.coverage" NAME="test_repository Coverage Results" MODIFIED="1637264266085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/main_py$console.coverage" NAME="console Coverage Results" MODIFIED="1638351709424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UserInterface" />
+  </component>
+</project>

@@ -1,0 +1,42 @@
+{
+  "2": {
+    "py/object": "Domain.transaction.Transaction",
+    "entity_id": "2",
+    "id_medicine": "1",
+    "id_client_card": "1",
+    "amount": 21,
+    "total": 3958.4159999999997,
+    "sale": 439.824,
+    "dateandtime": {
+      "py/object": "datetime.datetime",
+      "__reduce__": [
+        {
+          "py/type": "datetime.datetime"
+        },
+        [
+          "AAwMDAwMDAAAAA=="
+        ]
+      ]
+    }
+  },
+  "1": {
+    "py/object": "Domain.transaction.Transaction",
+    "entity_id": "1",
+    "id_medicine": "1",
+    "id_client_card": "1",
+    "amount": 21,
+    "total": 3958.4159999999997,
+    "sale": 439.824,
+    "dateandtime": {
+      "py/object": "datetime.datetime",
+      "__reduce__": [
+        {
+          "py/type": "datetime.datetime"
+        },
+        [
+          "B9wMDAwMDAAAAA=="
+        ]
+      ]
+    }
+  }
+}
