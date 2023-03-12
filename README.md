@@ -35,4 +35,11 @@ The program permits the deletion of all transactions that occurred within a part
 The project has been <strong>finished</strong>. In this application, everything I wanted to implement has been done.
 
 <h2>📸 Screenshots</h2>
+<p> <strong>Main menu</strong></p>
 <img src="https://user-images.githubusercontent.com/75640917/224547458-250ccc77-9de9-442b-a84a-0b5f406ae7b0.png">
+<p> <strong>Medicine menu</strong></p>
+<img src="https://user-images.githubusercontent.com/75640917/224550605-8fe800f8-bd2f-4fe8-aee9-38176341ddd3.png">
+<p> <strong>Client cards menu</strong></p>
+<img src="https://user-images.githubusercontent.com/75640917/224550609-9be739a0-3663-40b4-904e-e0ae2c8bb369.png">
+<p> <strong>Transactions menu</strong></p>
+<img src="https://user-images.githubusercontent.com/75640917/224550610-f51fe80e-df86-40f5-ae56-9768e6ec874d.png">
